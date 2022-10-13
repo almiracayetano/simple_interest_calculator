@@ -3,8 +3,8 @@
 # Do not use this in production. Sample purpose only.
 
 # Author: Upkar Lidder (IBM)
-# Addtional Authors: Almira Cayetano-Argarin
-# <your Github username>
+# Addtional Authors:
+# almiracayetano
 
 # Input:
 # p, principal amount
