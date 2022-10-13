@@ -3,7 +3,7 @@
 # Do not use this in production. Sample purpose only.
 
 # Author: Upkar Lidder (IBM)
-# Addtional Authors:
+# Addtional Authors: Almira Cayetano-Argarin
 # <your Github username>
 
 # Input:
